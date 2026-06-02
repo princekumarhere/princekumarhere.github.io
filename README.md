@@ -2,10 +2,10 @@
   Portfolio Website<br/>
 </h2>
 <h3 align="center">
-  <a href="https://princekdev.github.io/portfolio" target="_blank">princekdev.github.io/portfolio</a>
+  <a href="https://princekumarhere.github.io/" target="_blank">princekumarhere.github.io</a>
 </h3>
 <div align="center">
-  <img alt="Portfolio Image" src="README/portfolio-image.png" />
+  <img alt="Portfolio Image" src="README/Portfolio.png" />
 </div>
 
 <br/>
@@ -20,14 +20,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/princekdev/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/princekumarhere/princekumarhere.github.io/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/princekdev/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/princekumarhere/princekumarhere.github.io/issues">Request Feature</a>
 </h3>
 
 ## Built With
 
-My personal portfolio <a href="https://princekdev.github.io/portfolio/" target="_blank">princekdev.github.io/portfolio/</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://princekumarhere.github.io/" target="_blank">princekumarhere.github.io</a> which features some of my github projects, experience and technical skills.<br/>
 
 This project was built using these technologies.
 
