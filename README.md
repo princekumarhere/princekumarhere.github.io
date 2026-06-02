@@ -5,7 +5,7 @@
   <a href="https://princekumarhere.github.io/" target="_blank">princekumarhere.github.io</a>
 </h3>
 <div align="center">
-  <img alt="Portfolio Image" src="README/Portfolio.png" />
+  <img alt="Portfolio Image" src="static/images/Portfolio.png" />
 </div>
 
 <br/>
