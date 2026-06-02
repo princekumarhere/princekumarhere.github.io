@@ -341,6 +341,14 @@ nav li:hover a {
   grid-column: span 2;
 }
 
+.project-container> :nth-child(3) {
+  grid-column: span 2;
+}
+
+.project-container> :nth-child(5) {
+  grid-column: span 2;
+}
+
 
 /* ----------------------------------------
     Skills
